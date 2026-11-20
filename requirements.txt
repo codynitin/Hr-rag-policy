@@ -1,0 +1,13 @@
+python-dotenv
+langchain 
+langchain-core
+langchain-community
+langchain-groq
+langchain_text_splitters
+
+
+## vector db 
+faiss-cpu
+streamlit
+
+ipykernel
