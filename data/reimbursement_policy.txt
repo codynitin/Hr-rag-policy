@@ -1,0 +1,43 @@
+HR POLICY DOCUMENT Document: Business Expense and Reimbursement Policy
+Version: 1.0 Effective date: 1 January 2026 Company: Example
+Technologies Pvt. Ltd. (Fictional)
+
+IMPORTANT This is fictional sample content created for software testing.
+It is not legal advice and does not represent a real company’s policy.
+
+1.  PURPOSE This policy explains how employees can claim reimbursement
+    for eligible business expenses.
+
+2.  ELIGIBLE EXPENSES Subject to prior approval where required, eligible
+    expenses may include:
+
+-   Business travel by approved transport.
+-   Hotel accommodation for approved business trips.
+-   Meals during eligible business travel.
+-   Approved work-related supplies and software.
+
+Personal shopping, traffic fines, minibar charges, and expenses
+unrelated to business are not reimbursable.
+
+3.  APPROVAL Employees must obtain manager approval before making any
+    non-routine or high-value purchase. Travel bookings must follow the
+    company’s travel approval process.
+
+4.  SUBMISSION DEADLINE Submit reimbursement claims within 30 calendar
+    days after the expense date or completion of the business trip,
+    whichever is later.
+
+5.  REQUIRED DOCUMENTS Each claim must include:
+
+-   Date and amount of the expense.
+-   Business purpose.
+-   Original or digital itemised receipt.
+-   Manager approval, where required.
+-   Travel details, if the expense relates to a business trip.
+
+6.  PROCESSING TIME HR or Finance will review complete claims. Approved
+    claims are normally processed within 10 business days, subject to
+    payroll and payment cycles. Incomplete claims may be returned for
+    clarification.
+
+7.  QUESTIONS For reimbursement questions, contact finance@example.com.

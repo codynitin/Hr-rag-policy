@@ -1,0 +1,43 @@
+HR POLICY DOCUMENT Document: Leave Policy Version: 1.0 Effective date: 1
+January 2026 Company: Example Technologies Pvt. Ltd. (Fictional)
+
+IMPORTANT This is fictional sample content created for software testing.
+It is not legal advice and does not represent a real company’s policy.
+
+1.  PURPOSE This policy explains the leave process for employees of
+    Example Technologies.
+
+2.  ELIGIBILITY All full-time employees are covered by this policy after
+    completing their joining formalities. Interns and contractors follow
+    the terms of their individual agreements.
+
+3.  LEAVE TYPES
+
+-   Casual Leave (CL): 8 days per calendar year.
+-   Sick Leave (SL): 8 days per calendar year.
+-   Earned Leave (EL): 18 days per calendar year, credited monthly at
+    1.5 days.
+-   Parental leave: handled according to applicable law and the
+    company’s separate parental leave procedure.
+
+4.  APPLYING FOR LEAVE Employees should submit leave requests through
+    the HR portal.
+
+-   Planned leave of 1-2 working days: request at least 3 working days
+    in advance.
+-   Planned leave of 3 or more working days: request at least 7 working
+    days in advance.
+-   Sick leave: inform the manager as soon as reasonably possible. Leave
+    is approved only after the manager or authorised approver confirms
+    it.
+
+5.  PUBLIC HOLIDAYS AND WEEKENDS Company-declared public holidays are
+    not deducted from an employee’s leave balance. Weekly offs are
+    handled according to the employee’s work schedule.
+
+6.  CARRY FORWARD Unused Earned Leave may be carried forward up to a
+    maximum balance of 30 days. Casual Leave and Sick Leave do not carry
+    forward.
+
+7.  CONTACT For questions about leave balances or this policy, contact
+    the HR team at hr@example.com.

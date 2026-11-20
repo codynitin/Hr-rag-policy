@@ -1,0 +1,38 @@
+HR POLICY DOCUMENT Document: Attendance and Work From Home Policy
+Version: 1.0 Effective date: 1 January 2026 Company: Example
+Technologies Pvt. Ltd. (Fictional)
+
+IMPORTANT This is fictional sample content created for software testing.
+It is not legal advice and does not represent a real company’s policy.
+
+1.  WORKING HOURS The standard work schedule is Monday to Friday, 9:30
+    AM to 6:30 PM, with a one-hour lunch break. Individual teams may
+    have approved alternate schedules.
+
+2.  ATTENDANCE Employees must record their start and end times using the
+    company attendance system. If an employee forgets to record
+    attendance, they should submit a correction request within two
+    working days and obtain manager approval.
+
+3.  LATE ARRIVAL Employees should inform their manager if they expect to
+    arrive late. Repeated late arrivals may be reviewed by the manager
+    and HR under the company’s attendance process.
+
+4.  WORK FROM HOME ELIGIBILITY Employees may request up to 8
+    work-from-home days per calendar month, subject to role suitability,
+    team requirements, and manager approval. This is a fictional company
+    rule for testing.
+
+5.  REQUEST PROCESS Submit a work-from-home request through the HR
+    portal at least one working day in advance. For emergencies, contact
+    the manager directly and complete the portal request afterwards.
+
+6.  INFORMATION SECURITY Employees working remotely must:
+
+-   Use company-approved devices and secure network connections.
+-   Keep company information confidential.
+-   Avoid using public computers for company work.
+-   Report lost devices or suspected data exposure to IT immediately.
+
+7.  CONTACT For attendance corrections, contact hr@example.com. For
+    device or access issues, contact it-support@example.com.
